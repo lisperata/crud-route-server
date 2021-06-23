@@ -1,4 +1,4 @@
 import path from "path";
 
-export const port = 4000;
-export const pathToJsonFile = path.join("src", "users", "users.json");
+export const PORT = 4000;
+export const PATH_TO_JSON_FILE = path.join("src", "users", "users.json");
